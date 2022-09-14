@@ -1,0 +1,5 @@
+com\coralogix\calculator\services\AddService.class
+com\coralogix\calculator\AddController.class
+com\coralogix\calculator\model\Result.class
+com\coralogix\calculator\model\ExchangeRate.class
+com\coralogix\calculator\CalculatorApplication.class
